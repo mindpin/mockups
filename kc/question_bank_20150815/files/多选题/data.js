@@ -1,0 +1,1536 @@
+﻿$axure.loadCurrentPage({
+  "url":"多选题.html",
+  "generationDate":new Date(1439662879769.82),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"37ec6cafb10141bda6c51d0bfbb7a819",
+    "type":"Axure:Page",
+    "name":"多选题",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"ebfd176cbfc442d5beafc1bd819eca03",
+          "label":"",
+          "type":"table",
+          "styleType":"table",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":200,
+              "y":60},
+            "size":{
+              "width":934,
+              "height":495}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"39aa7e2b11d04cf885e55044ca13a875",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"right",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "size":{
+                  "width":118,
+                  "height":50}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"ae27a3ad6d844a3c96351d96cb16bba3",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"right",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "size":{
+                      "width":118,
+                      "height":50}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u13.png"}},
+{
+              "id":"635d966b5e154fceb740c227162672fb",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"right",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":0,
+                  "y":50},
+                "size":{
+                  "width":118,
+                  "height":80}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6ab15d5eb4444a8283a58a469f0f7c27",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"right",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "location":{
+                      "x":0,
+                      "y":50},
+                    "size":{
+                      "width":118,
+                      "height":80}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u17.png"}},
+{
+              "id":"b63e427369484c368fa48db52574a75c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"right",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":0,
+                  "y":130},
+                "size":{
+                  "width":118,
+                  "height":50}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"87821829c54f4307af602628868d9093",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"right",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "location":{
+                      "x":0,
+                      "y":130},
+                    "size":{
+                      "width":118,
+                      "height":50}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u13.png"}},
+{
+              "id":"293477d26e2540f082f07814ff686934",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":118,
+                  "y":0},
+                "size":{
+                  "width":816,
+                  "height":50}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"73bf38323fef4ef38c17c1a40d03d554",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "location":{
+                      "x":118,
+                      "y":0},
+                    "size":{
+                      "width":816,
+                      "height":50}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u15.png"}},
+{
+              "id":"8e210fb10cb145a798036a8d79c038cf",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":118,
+                  "y":50},
+                "size":{
+                  "width":816,
+                  "height":80}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"dee25807f0454187af52e368cb733675",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "location":{
+                      "x":118,
+                      "y":50},
+                    "size":{
+                      "width":816,
+                      "height":80}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u19.png"}},
+{
+              "id":"409c69eeb8e546e2b089f69b368bd0db",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":118,
+                  "y":130},
+                "size":{
+                  "width":816,
+                  "height":50}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b258fec16e064fd4aafe4451995d45f8",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "location":{
+                      "x":118,
+                      "y":130},
+                    "size":{
+                      "width":816,
+                      "height":50}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u15.png"}},
+{
+              "id":"f873eea3727148e6a9ba42145407b9d3",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"right",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":0,
+                  "y":180},
+                "size":{
+                  "width":118,
+                  "height":135}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"680341afe0d649798877b725719c176b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"right",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "location":{
+                      "x":0,
+                      "y":180},
+                    "size":{
+                      "width":118,
+                      "height":135}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u25.png"}},
+{
+              "id":"41b9a1b6282a4ca8920105bfcfed1460",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":118,
+                  "y":180},
+                "size":{
+                  "width":816,
+                  "height":135}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6b4e2c06d9184df394f34cbdd82e839f",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "location":{
+                      "x":118,
+                      "y":180},
+                    "size":{
+                      "width":816,
+                      "height":135}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u27.png"}},
+{
+              "id":"e4cfb347ad0e4685aef1b5c851d89fc1",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"right",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":0,
+                  "y":395},
+                "size":{
+                  "width":118,
+                  "height":50}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"8cd87b95617c4698b5e28b8387377a5c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"right",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "location":{
+                      "x":0,
+                      "y":395},
+                    "size":{
+                      "width":118,
+                      "height":50}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u13.png"}},
+{
+              "id":"d305e21a55b14b838eb8fc0dc9fe6708",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":118,
+                  "y":395},
+                "size":{
+                  "width":816,
+                  "height":50}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"60d03e5a71354cdd97d389ebb47049db",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "location":{
+                      "x":118,
+                      "y":395},
+                    "size":{
+                      "width":816,
+                      "height":50}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u15.png"}},
+{
+              "id":"6fc634f6b605474192530fadc2b966f7",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"right",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":0,
+                  "y":445},
+                "size":{
+                  "width":118,
+                  "height":50}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"84e62521bfdd41a8b74cb9d5d8d7bd0e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"right",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "location":{
+                      "x":0,
+                      "y":445},
+                    "size":{
+                      "width":118,
+                      "height":50}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u37.png"}},
+{
+              "id":"bfd3e8ad1d884656ae34bf25196bbc91",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":118,
+                  "y":445},
+                "size":{
+                  "width":816,
+                  "height":50}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"3eb4279c151346a2bbdacfbf60a94418",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "location":{
+                      "x":118,
+                      "y":445},
+                    "size":{
+                      "width":816,
+                      "height":50}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u39.png"}},
+{
+              "id":"caa6cad49e9b4df7a92a4f663e36f345",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"right",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":0,
+                  "y":315},
+                "size":{
+                  "width":118,
+                  "height":80}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"fcbe452b9ad548afb878ec3e7f325bd1",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"right",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "location":{
+                      "x":0,
+                      "y":315},
+                    "size":{
+                      "width":118,
+                      "height":80}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u17.png"}},
+{
+              "id":"9fcddfc7e4724cdbb2b9f387c586bb5c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "paddingTop":"10",
+                "paddingBottom":"10",
+                "location":{
+                  "x":118,
+                  "y":315},
+                "size":{
+                  "width":816,
+                  "height":80}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"67397ae7eee1451aa439e12d77f2852b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "paddingTop":"10",
+                    "paddingBottom":"10",
+                    "location":{
+                      "x":118,
+                      "y":315},
+                    "size":{
+                      "width":816,
+                      "height":80}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/添加考题_-_单选题/u19.png"}}]},
+{
+          "id":"9eab1f5cf5cc49ebbabd46fdd5770118",
+          "label":"",
+          "type":"textArea",
+          "styleType":"textArea",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":330,
+              "y":120},
+            "size":{
+              "width":530,
+              "height":60}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"d163b335b12b4dfdab38c257b50f23e2",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":330,
+              "y":204},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"f2ddbb1c76ab40bc8654b8a0e3741e28",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":360,
+              "y":255},
+            "size":{
+              "width":500,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"12a83853e33448ba9df396a2c3ab94c7",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":360,
+              "y":290},
+            "size":{
+              "width":500,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"3a5469e892d44575a079363d8c472a2e",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":330,
+              "y":334},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"9f512ef9131548448a15bace0fdd0344",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":440,
+              "y":337},
+            "size":{
+              "width":131,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8e8c9f674dbc4fa7806a582489e462b8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":440,
+                  "y":337},
+                "size":{
+                  "width":131,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"3e46d5bbf9b249b9a18118df4594befb",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":330,
+              "y":466},
+            "size":{
+              "width":160,
+              "height":30}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"c6ab4b62012449cb8fb2bb6bbfa8b8ee",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":330,
+              "y":523},
+            "size":{
+              "width":70,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5cf21e2a856443aeb50d4a409b4b617a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":330,
+                  "y":523},
+                "size":{
+                  "width":70,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"976e0db6a25f41edbbae66048f41f34e",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":410,
+              "y":523},
+            "size":{
+              "width":70,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3303809ba65742dfa25529f428384424",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":410,
+                  "y":523},
+                "size":{
+                  "width":70,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"ab41eed059404bbf9bed6b44bc833d90",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":320,
+              "y":594},
+            "size":{
+              "width":100,
+              "height":35}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 试题列表",
+                      "target":{
+                        "targetType":"page",
+                        "url":"试题列表.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"d4e6e4df96db4a0aa9716e5b8f6543ad",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":450,
+              "y":594},
+            "size":{
+              "width":100,
+              "height":35}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 新窗口/标签页 打开 预览",
+                      "target":{
+                        "targetType":"page",
+                        "url":"预览.html",
+                        "includeVariables":true},
+                      "linkType":"new"}]}]}},
+          "tabbable":true},
+{
+          "id":"8710c987675d4f3fa13509f51257bbed",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":330,
+              "y":259},
+            "size":{
+              "width":40,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"519c729b42474d93afd52904b6c53c85",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":330,
+                  "y":259},
+                "size":{
+                  "width":40,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"bb8a742ac66c4120ba5aa52e8f1fd12e",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":330,
+              "y":294},
+            "size":{
+              "width":40,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3094139ab500441d873f9086a7dd9666",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":330,
+                  "y":294},
+                "size":{
+                  "width":40,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"76e660c8e20b4228a5843e4984ed8a44",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":330,
+              "y":69},
+            "size":{
+              "width":160,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onSelectionChange":{
+              "description":"OnSelectionChange",
+              "cases":[{
+                  "description":"用例 1<br> (If 选中项于 This 等于 &quot;多选题&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"多选题",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 多选题",
+                      "target":{
+                        "targetType":"page",
+                        "url":"多选题.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]},
+{
+                  "description":"用例 2<br> (Else If 选中项于 This 等于 &quot;判断题&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"判断题",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 判断题",
+                      "target":{
+                        "targetType":"page",
+                        "url":"判断题.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]},
+{
+                  "description":"用例 3<br> (Else If 选中项于 This 等于 &quot;论述题&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"论述题",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 论述题",
+                      "target":{
+                        "targetType":"page",
+                        "url":"论述题.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]},
+{
+                  "description":"用例 4<br> (Else If 选中项于 This 等于 &quot;连线题&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"连线题",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 连线题",
+                      "target":{
+                        "targetType":"page",
+                        "url":"连线题.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]},
+{
+                  "description":"用例 5<br> (Else If 选中项于 This 等于 &quot;填空题&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"填空题",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 填空题",
+                      "target":{
+                        "targetType":"page",
+                        "url":"填空题.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]},
+{
+                  "description":"用例 6<br> (Else If 选中项于 This 等于 &quot;单选题&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"单选题",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 添加考题 - 单选题",
+                      "target":{
+                        "targetType":"page",
+                        "url":"添加考题_-_单选题.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}}},
+{
+          "id":"f2bf38433563449d817d34a245682119",
+          "label":"",
+          "type":"textArea",
+          "styleType":"textArea",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":330,
+              "y":386},
+            "size":{
+              "width":530,
+              "height":60}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"f99c0ed8fd854e2f90ff4bb475f7b7ad",
+          "label":"",
+          "type":"treeNodeObject",
+          "styleType":"treeNodeObject",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":25,
+              "y":61},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ad21d817c62d4be78f24c49702adc2fa",
+              "label":"",
+              "type":"treeNodeObject",
+              "styleType":"treeNodeObject",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontWeight":"700",
+                "size":{
+                  "width":80,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b56ced7a4b174d77a617b7b2dfacdb1e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Bold', 'Applied Font'",
+                    "fontWeight":"700",
+                    "size":{
+                      "width":80,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"4add07944f374298888da8f4d16a20fa",
+                      "label":"",
+                      "isContained":true,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Bold', 'Applied Font'",
+                        "fontWeight":"700",
+                        "size":{
+                          "width":80,
+                          "height":20}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"138aa458fd1f478a84d7b74c27c9c372",
+                  "label":"",
+                  "type":"treeNodeObject",
+                  "styleType":"treeNodeObject",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":20,
+                      "y":20},
+                    "size":{
+                      "width":80,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f40905afd99d43e685d70c51d2557a62",
+                      "label":"",
+                      "isContained":true,
+                      "type":"buttonShape",
+                      "styleType":"buttonShape",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":20,
+                          "y":20},
+                        "size":{
+                          "width":80,
+                          "height":20}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"2174de84fce0431b965f811b4fd2461c",
+                          "label":"",
+                          "isContained":true,
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":20,
+                              "y":20},
+                            "size":{
+                              "width":80,
+                              "height":20}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"resources/images/transparent.gif"}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 试题列表",
+                              "target":{
+                                "targetType":"page",
+                                "url":"试题列表.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "buttonShapeId":"f40905afd99d43e685d70c51d2557a62"},
+{
+                  "id":"c34feab47a5344bfa60811a68f762b71",
+                  "label":"",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "stateStyles":{
+                      "selected":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'"}},
+                    "location":{
+                      "x":6,
+                      "y":6},
+                    "size":{
+                      "width":9,
+                      "height":9}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0887e14c25814f00bffb17638c36cd8a",
+                      "label":"",
+                      "isContained":true,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "stateStyles":{
+                          "selected":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'"}},
+                        "location":{
+                          "x":6,
+                          "y":6},
+                        "size":{
+                          "width":9,
+                          "height":9}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/试题列表/u151.png",
+                    "selected~":"images/试题列表/u151_selected.png"}},
+{
+                  "id":"75939b4ea68241349f3da7dd9815d31e",
+                  "label":"",
+                  "type":"treeNodeObject",
+                  "styleType":"treeNodeObject",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Bold', 'Applied Font'",
+                    "fontWeight":"700",
+                    "location":{
+                      "x":20,
+                      "y":40},
+                    "size":{
+                      "width":80,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a836dee1bbbc489f83633f9ecb8d4dde",
+                      "label":"",
+                      "isContained":true,
+                      "type":"buttonShape",
+                      "styleType":"buttonShape",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Bold', 'Applied Font'",
+                        "fontWeight":"700",
+                        "location":{
+                          "x":20,
+                          "y":40},
+                        "size":{
+                          "width":80,
+                          "height":20}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"5a2ac3083fef4ce5888d17115ff0d1c7",
+                          "label":"",
+                          "isContained":true,
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Bold', 'Applied Font'",
+                            "fontWeight":"700",
+                            "location":{
+                              "x":20,
+                              "y":40},
+                            "size":{
+                              "width":80,
+                              "height":20}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"resources/images/transparent.gif"}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 添加考题 - 单选题",
+                              "target":{
+                                "targetType":"page",
+                                "url":"添加考题_-_单选题.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "buttonShapeId":"a836dee1bbbc489f83633f9ecb8d4dde"}],
+              "buttonShapeId":"b56ced7a4b174d77a617b7b2dfacdb1e"}]}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "ebfd176cbfc442d5beafc1bd819eca03":{
+      "scriptId":"u0"},
+    "39aa7e2b11d04cf885e55044ca13a875":{
+      "scriptId":"u1"},
+    "ae27a3ad6d844a3c96351d96cb16bba3":{
+      "scriptId":"u2"},
+    "293477d26e2540f082f07814ff686934":{
+      "scriptId":"u3"},
+    "73bf38323fef4ef38c17c1a40d03d554":{
+      "scriptId":"u4"},
+    "635d966b5e154fceb740c227162672fb":{
+      "scriptId":"u5"},
+    "6ab15d5eb4444a8283a58a469f0f7c27":{
+      "scriptId":"u6"},
+    "8e210fb10cb145a798036a8d79c038cf":{
+      "scriptId":"u7"},
+    "dee25807f0454187af52e368cb733675":{
+      "scriptId":"u8"},
+    "b63e427369484c368fa48db52574a75c":{
+      "scriptId":"u9"},
+    "87821829c54f4307af602628868d9093":{
+      "scriptId":"u10"},
+    "409c69eeb8e546e2b089f69b368bd0db":{
+      "scriptId":"u11"},
+    "b258fec16e064fd4aafe4451995d45f8":{
+      "scriptId":"u12"},
+    "f873eea3727148e6a9ba42145407b9d3":{
+      "scriptId":"u13"},
+    "680341afe0d649798877b725719c176b":{
+      "scriptId":"u14"},
+    "41b9a1b6282a4ca8920105bfcfed1460":{
+      "scriptId":"u15"},
+    "6b4e2c06d9184df394f34cbdd82e839f":{
+      "scriptId":"u16"},
+    "caa6cad49e9b4df7a92a4f663e36f345":{
+      "scriptId":"u17"},
+    "fcbe452b9ad548afb878ec3e7f325bd1":{
+      "scriptId":"u18"},
+    "9fcddfc7e4724cdbb2b9f387c586bb5c":{
+      "scriptId":"u19"},
+    "67397ae7eee1451aa439e12d77f2852b":{
+      "scriptId":"u20"},
+    "e4cfb347ad0e4685aef1b5c851d89fc1":{
+      "scriptId":"u21"},
+    "8cd87b95617c4698b5e28b8387377a5c":{
+      "scriptId":"u22"},
+    "d305e21a55b14b838eb8fc0dc9fe6708":{
+      "scriptId":"u23"},
+    "60d03e5a71354cdd97d389ebb47049db":{
+      "scriptId":"u24"},
+    "6fc634f6b605474192530fadc2b966f7":{
+      "scriptId":"u25"},
+    "84e62521bfdd41a8b74cb9d5d8d7bd0e":{
+      "scriptId":"u26"},
+    "bfd3e8ad1d884656ae34bf25196bbc91":{
+      "scriptId":"u27"},
+    "3eb4279c151346a2bbdacfbf60a94418":{
+      "scriptId":"u28"},
+    "9eab1f5cf5cc49ebbabd46fdd5770118":{
+      "scriptId":"u29"},
+    "d163b335b12b4dfdab38c257b50f23e2":{
+      "scriptId":"u30"},
+    "f2ddbb1c76ab40bc8654b8a0e3741e28":{
+      "scriptId":"u31"},
+    "12a83853e33448ba9df396a2c3ab94c7":{
+      "scriptId":"u32"},
+    "3a5469e892d44575a079363d8c472a2e":{
+      "scriptId":"u33"},
+    "9f512ef9131548448a15bace0fdd0344":{
+      "scriptId":"u34"},
+    "8e8c9f674dbc4fa7806a582489e462b8":{
+      "scriptId":"u35"},
+    "3e46d5bbf9b249b9a18118df4594befb":{
+      "scriptId":"u36"},
+    "c6ab4b62012449cb8fb2bb6bbfa8b8ee":{
+      "scriptId":"u37"},
+    "5cf21e2a856443aeb50d4a409b4b617a":{
+      "scriptId":"u38"},
+    "976e0db6a25f41edbbae66048f41f34e":{
+      "scriptId":"u39"},
+    "3303809ba65742dfa25529f428384424":{
+      "scriptId":"u40"},
+    "ab41eed059404bbf9bed6b44bc833d90":{
+      "scriptId":"u41"},
+    "d4e6e4df96db4a0aa9716e5b8f6543ad":{
+      "scriptId":"u42"},
+    "8710c987675d4f3fa13509f51257bbed":{
+      "scriptId":"u43"},
+    "519c729b42474d93afd52904b6c53c85":{
+      "scriptId":"u44"},
+    "bb8a742ac66c4120ba5aa52e8f1fd12e":{
+      "scriptId":"u45"},
+    "3094139ab500441d873f9086a7dd9666":{
+      "scriptId":"u46"},
+    "76e660c8e20b4228a5843e4984ed8a44":{
+      "scriptId":"u47"},
+    "f2bf38433563449d817d34a245682119":{
+      "scriptId":"u48"},
+    "f99c0ed8fd854e2f90ff4bb475f7b7ad":{
+      "scriptId":"u49"},
+    "ad21d817c62d4be78f24c49702adc2fa":{
+      "scriptId":"u50"},
+    "c34feab47a5344bfa60811a68f762b71":{
+      "scriptId":"u51"},
+    "0887e14c25814f00bffb17638c36cd8a":{
+      "scriptId":"u52"},
+    "b56ced7a4b174d77a617b7b2dfacdb1e":{
+      "scriptId":"u53"},
+    "4add07944f374298888da8f4d16a20fa":{
+      "scriptId":"u54"},
+    "138aa458fd1f478a84d7b74c27c9c372":{
+      "scriptId":"u55"},
+    "f40905afd99d43e685d70c51d2557a62":{
+      "scriptId":"u56"},
+    "2174de84fce0431b965f811b4fd2461c":{
+      "scriptId":"u57"},
+    "75939b4ea68241349f3da7dd9815d31e":{
+      "scriptId":"u58"},
+    "a836dee1bbbc489f83633f9ecb8d4dde":{
+      "scriptId":"u59"},
+    "5a2ac3083fef4ce5888d17115ff0d1c7":{
+      "scriptId":"u60"}}});
