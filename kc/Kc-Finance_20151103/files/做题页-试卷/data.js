@@ -1,0 +1,3737 @@
+﻿$axure.loadCurrentPage({
+  "url":"做题页-试卷.html",
+  "generationDate":new Date(1446546665361.4),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"04aa2433147f4daba65d302fc5b6fd21",
+    "type":"Axure:Page",
+    "name":"做题页-试卷",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d1ae9675f8b6454e92fb559d76bac954",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":60,
+              "y":211},
+            "size":{
+              "width":260,
+              "height":560},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"eb13cfb6668b4fcea092c1fe746df1af",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":60,
+                  "y":211},
+                "size":{
+                  "width":260,
+                  "height":560},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/做题页-试卷/u0.png"}},
+{
+          "id":"8da9dc085abf4d60b50fb8d07bec1694",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":60,
+              "y":20},
+            "size":{
+              "width":260,
+              "height":120},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9fc066dca19c4d4eab1b23abe079f151",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":60,
+                  "y":20},
+                "size":{
+                  "width":260,
+                  "height":120},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/做题页-试卷/u2.png"}},
+{
+          "id":"db0f91b4aeac44658fe296326a4501e4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"14px",
+            "lineSpacing":"22px",
+            "location":{
+              "x":175,
+              "y":36},
+            "size":{
+              "width":85,
+              "height":66}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7d03ab50f3d14f21916f39214ab6ee04",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"14px",
+                "lineSpacing":"22px",
+                "location":{
+                  "x":175,
+                  "y":36},
+                "size":{
+                  "width":85,
+                  "height":66}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8a1227315dc14d1294dd29d5f7a59ad4",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":80,
+              "y":34},
+            "size":{
+              "width":70,
+              "height":93}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"29e28430302344a3ad92a928b710ff83",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":80,
+                  "y":34},
+                "size":{
+                  "width":70,
+                  "height":93}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/做题页-试卷/u6.png"}},
+{
+          "id":"7b9b6a2aa6154d70aec4657831300893",
+          "label":"题目导航",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":70,
+              "y":212},
+            "size":{
+              "width":249,
+              "height":558}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"verticalAsNeeded",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"02bd017cc24d499e8152c9d6a02b34b5",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"5ca8aa2acc34481582e5d7398342cf76",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"left",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFF2F2F2},
+                    "location":{
+                      "x":0,
+                      "y":52},
+                    "size":{
+                      "width":240,
+                      "height":30},
+                    "linePattern":"none",
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"da2ee0271be84516bcf78fe6d0762eaa",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "horizontalAlignment":"left",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFF2F2F2},
+                        "location":{
+                          "x":0,
+                          "y":52},
+                        "size":{
+                          "width":240,
+                          "height":30},
+                        "linePattern":"none",
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u9.png"}},
+{
+                  "id":"eecc4d3bb551462eb8ce0913c0a1d57a",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF99CCFF},
+                    "location":{
+                      "x":0,
+                      "y":102},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c5606b5405fd46a7afc8aa7bfb013447",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF99CCFF},
+                        "location":{
+                          "x":0,
+                          "y":102},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u11.png"}},
+{
+                  "id":"6b7f54c216d04ab883942b3c84d322c7",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF99CCFF},
+                    "location":{
+                      "x":45,
+                      "y":102},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"4eb409eae37942c5a06223e00f4cdabb",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF99CCFF},
+                        "location":{
+                          "x":45,
+                          "y":102},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u11.png"}},
+{
+                  "id":"966c19793f844775b5748bb1089a9d80",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":89,
+                      "y":102},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"1c3ab434b5dc4fda8b493be4d3e1f4b6",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":89,
+                          "y":102},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"a776e2d18387494993386f940cb3f034",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":133,
+                      "y":102},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"25a32250629a47f0924ad7d83eaaa5c1",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":133,
+                          "y":102},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"6cbf8d3956aa49fc99e7a9f2079567b0",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":178,
+                      "y":102},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c576b76571d247e9a268f71c59472917",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":178,
+                          "y":102},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"630c41e7f9ca40599c01a2380ed785ba",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":0,
+                      "y":147},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"8414fe4187bb45de9476011ecc0fe332",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":0,
+                          "y":147},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"706620400e504c04b67a0bec4a1bfb71",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":45,
+                      "y":147},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"bb882c2eceeb4944b95589810d455894",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":45,
+                          "y":147},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"c4d3a23f88dd42eb87da6a5c4bf9d930",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":89,
+                      "y":147},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"611ed33796f44f84b2a6e5aa305ca007",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":89,
+                          "y":147},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"c555acefc1604db5ac4628fc2d947bff",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":133,
+                      "y":147},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e247847aa1af4729bcc0b0180dc1f6b7",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":133,
+                          "y":147},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"cbc4acb548ae4bfcbd8f6f3d73b2528a",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":178,
+                      "y":147},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"9e0b8a67f4d4443c8bd14459b8944b36",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":178,
+                          "y":147},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"c118fa854403455985c559131238203b",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"left",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFF2F2F2},
+                    "location":{
+                      "x":0,
+                      "y":202},
+                    "size":{
+                      "width":240,
+                      "height":30},
+                    "linePattern":"none",
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c8410a05ee1f4a08bcf85a4bd59fe4a9",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "horizontalAlignment":"left",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFF2F2F2},
+                        "location":{
+                          "x":0,
+                          "y":202},
+                        "size":{
+                          "width":240,
+                          "height":30},
+                        "linePattern":"none",
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u9.png"}},
+{
+                  "id":"07b7483db2cf4617a1284246ea0733ea",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":0,
+                      "y":252},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0de3edeb1d46432a860236c869293f32",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":0,
+                          "y":252},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u33.png"}},
+{
+                  "id":"05fc6c091d0e4a4d9cedcf1196b76ac3",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":45,
+                      "y":252},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"eef7956031b94274a1723a9aa25155db",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":45,
+                          "y":252},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u33.png"}},
+{
+                  "id":"5a87bcb842124171a1975529d588b6db",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":89,
+                      "y":252},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"2b742a2512b245c99abc3e7b49421363",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":89,
+                          "y":252},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"4d4dd73f0ea84cf7ae54b7ee2f2434ad",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":133,
+                      "y":252},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c625a0293c26480e98d37585d7c9e935",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":133,
+                          "y":252},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"b7e7d175e8154f2aa650522fbb0bc2e4",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":178,
+                      "y":252},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e8e09031cd6e435ca3fdb689c855e2de",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":178,
+                          "y":252},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"abcfd1399dd446d68c8a0f5ea8ec8b9f",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"left",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFF2F2F2},
+                    "location":{
+                      "x":0,
+                      "y":312},
+                    "size":{
+                      "width":240,
+                      "height":30},
+                    "linePattern":"none",
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"1bcbdfaf5e814c0f9e671ebf760f69e4",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "horizontalAlignment":"left",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFF2F2F2},
+                        "location":{
+                          "x":0,
+                          "y":312},
+                        "size":{
+                          "width":240,
+                          "height":30},
+                        "linePattern":"none",
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u9.png"}},
+{
+                  "id":"8896fe6749d14602b1a69040f0450c87",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":0,
+                      "y":362},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"90fd2eb7d6de4ccab7a8f218d8459bdd",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":0,
+                          "y":362},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u33.png"}},
+{
+                  "id":"b0fe31d4aa154083984597497c050d6c",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"left",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFF2F2F2},
+                    "location":{
+                      "x":0,
+                      "y":422},
+                    "size":{
+                      "width":240,
+                      "height":30},
+                    "linePattern":"none",
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"13f5068644cb41c490b9c86a54fb9bb9",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "horizontalAlignment":"left",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFF2F2F2},
+                        "location":{
+                          "x":0,
+                          "y":422},
+                        "size":{
+                          "width":240,
+                          "height":30},
+                        "linePattern":"none",
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u9.png"}},
+{
+                  "id":"807d4b8ed63a46b3945bf65b100c6190",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":0,
+                      "y":472},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"94aa22b0e2f540bd8a53002695c83d6e",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":0,
+                          "y":472},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u33.png"}},
+{
+                  "id":"a98b7628dd7940dd979e18c38e5acd7f",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":45,
+                      "y":472},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"07c5b05411854080a2a48e3ece6c0337",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":45,
+                          "y":472},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u33.png"}},
+{
+                  "id":"35d7ebb9e223465da7ad7e1db8427ba5",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":89,
+                      "y":472},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c5c22835926e46368726c90335eb2c80",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":89,
+                          "y":472},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"e4d240c2985c42d98a45ec1169b34d20",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":133,
+                      "y":472},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"6ad6fc2f73744b3ea6ac1544400beae1",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":133,
+                          "y":472},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"38b287ec11634cc5bfae8df199bf2221",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":178,
+                      "y":472},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0624b58ea47144e7968d556e9a3bd073",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":178,
+                          "y":472},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"9ccd04b52e114a0a99e5bea7eaf01bd8",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":0,
+                      "y":519},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c27421126d77400f9d51b809e3ebbe75",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":0,
+                          "y":519},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"af0bcaac68834fb2be68798995c551ed",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":45,
+                      "y":519},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"36c2e88314e14845adbb938c778a4cd4",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":45,
+                          "y":519},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"405b6c493829418eae6c256e029d6bc7",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":89,
+                      "y":519},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"61c77fb8ca95420e9aa94c50d805e748",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":89,
+                          "y":519},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"6a3eee0389274d57bba9148bd788a7bf",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":133,
+                      "y":519},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0e63e7ffe6984e419ed703a9c4cb7035",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":133,
+                          "y":519},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"33ad29543b4644b99bae0e2b0b494d02",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":178,
+                      "y":519},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"734b9bcf1f3743c6a498a09c75eaa322",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":178,
+                          "y":519},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"d96149bad7fb4fcc81b07f7f31de381d",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"left",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFF2F2F2},
+                    "location":{
+                      "x":0,
+                      "y":578},
+                    "size":{
+                      "width":240,
+                      "height":30},
+                    "linePattern":"none",
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"bc28c2beb8594294a52b5f7326870198",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "horizontalAlignment":"left",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFF2F2F2},
+                        "location":{
+                          "x":0,
+                          "y":578},
+                        "size":{
+                          "width":240,
+                          "height":30},
+                        "linePattern":"none",
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u9.png"}},
+{
+                  "id":"bfa082d36b2a497e89e4cd1591530a09",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":0,
+                      "y":628},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"d9f014949a8a4dd7955c8668fde1e840",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":0,
+                          "y":628},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u33.png"}},
+{
+                  "id":"715cb8e75be541cbb7d6b4de1bd9e295",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":45,
+                      "y":628},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"35542a24475542249304eea31eef6abc",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":45,
+                          "y":628},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u33.png"}},
+{
+                  "id":"2268e6d46e0c428fb91da2335b95825a",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":89,
+                      "y":628},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"dd69aad02c4d4736806d1f28f4ec2e36",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":89,
+                          "y":628},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u15.png"}},
+{
+                  "id":"01ebc847005c4548be4ef97267a4bdc6",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":79,
+                      "y":668},
+                    "size":{
+                      "width":50,
+                      "height":14}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"81d37fc5f3a74bcb968a17ba20831330",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF99CCFF},
+                    "location":{
+                      "x":0,
+                      "y":10},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"1194fefc799640abbcbdf740b9d6de21",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF99CCFF},
+                        "location":{
+                          "x":0,
+                          "y":10},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u11.png"}},
+{
+                  "id":"d47dc7adc34844789dbc409e28339b76",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":75,
+                      "y":10},
+                    "size":{
+                      "width":30,
+                      "height":30},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7dc4baff87d94ab4aa7e34c8c5435ace",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":75,
+                          "y":10},
+                        "size":{
+                          "width":30,
+                          "height":30},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u33.png"}},
+{
+                  "id":"56cf67f016b3489cbba1bf6b69a034c6",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":33,
+                      "y":16},
+                    "size":{
+                      "width":27,
+                      "height":19}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"37aa227dfbcd426c8f20933d8972a8c4",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":33,
+                          "y":16},
+                        "size":{
+                          "width":27,
+                          "height":19}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"0684cb015a694cda95787864228d3e78",
+                  "label":"",
+                  "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":109,
+                      "y":16},
+                    "size":{
+                      "width":27,
+                      "height":19}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"44a1095daa4647af9418d7d93d8e1596",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7b9b6a2aa6154d70aec4657831300893",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "location":{
+                          "x":109,
+                          "y":16},
+                        "size":{
+                          "width":27,
+                          "height":19}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}]}]},
+{
+          "id":"fa98f9ea03e64d0ea6d4fd706ecbc7c7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":350,
+              "y":20},
+            "size":{
+              "width":950,
+              "height":1180},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c1fed024d1ae4f4db51f7fedb408f3c5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":350,
+                  "y":20},
+                "size":{
+                  "width":950,
+                  "height":1180},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/做题页-试卷/u86.png"}},
+{
+          "id":"505e4538b78e42aab9cbb9c3d3fec459",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":760,
+              "y":1135},
+            "size":{
+              "width":130,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 确定交卷",
+                      "objectsToFades":[{
+                          "objectPath":["3bbbc0656ffe479c87d1023d577e90e8"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"5fe31cb7e39c4a45a3613eb9cb37129b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":60,
+              "y":150},
+            "size":{
+              "width":260,
+              "height":50},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9c78238735704f1d84c6061e1869ad85",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":60,
+                  "y":150},
+                "size":{
+                  "width":260,
+                  "height":50},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/做题页-试卷/u89.png"}},
+{
+          "id":"1c51332106484815a85f99a295f4e129",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":800,
+              "y":1210},
+            "size":{
+              "width":50,
+              "height":30}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"322f909494c343bf8f2ca3357d7f1659",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "horizontalAlignment":"left",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFCC},
+            "location":{
+              "x":60,
+              "y":822},
+            "size":{
+              "width":200,
+              "height":88},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4e35dfcf17ef4b7595a1ad53762c723d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "horizontalAlignment":"left",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFCC},
+                "location":{
+                  "x":60,
+                  "y":822},
+                "size":{
+                  "width":200,
+                  "height":88},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/做题页-试卷/u92.png"}},
+{
+          "id":"65d32a8078d1430290088b17296e739a",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":140,
+              "y":781},
+            "size":{
+              "width":10,
+              "height":41},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"images/播放页/u125_start.png",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/播放页/u125_line.png"}},
+{
+          "id":"0292cf2e9ca1434ba3e86830f02fd1a2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fill":{
+              "fillType":"solid",
+              "color":0x99CCFFFF},
+            "location":{
+              "x":350,
+              "y":196},
+            "size":{
+              "width":950,
+              "height":350},
+            "linePattern":"none"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"09f84afe7c9849a49ed0961930461350",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0x99CCFFFF},
+                "location":{
+                  "x":350,
+                  "y":196},
+                "size":{
+                  "width":950,
+                  "height":350},
+                "linePattern":"none"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/做题页-试卷/u95.png"}},
+{
+          "id":"821c4130e04245d2b1a23d26bc061a95",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "horizontalAlignment":"center",
+            "location":{
+              "x":735,
+              "y":36},
+            "size":{
+              "width":217,
+              "height":31}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9513cb79307a4ab9bb2a6f1384e03c2d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "horizontalAlignment":"center",
+                "location":{
+                  "x":735,
+                  "y":36},
+                "size":{
+                  "width":217,
+                  "height":31}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"dddc070439ac447b80d561ca24b94754",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"16px",
+            "location":{
+              "x":674,
+              "y":92},
+            "size":{
+              "width":128,
+              "height":21}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d3e2ad6121704b7d995ed5d9ff012798",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "location":{
+                  "x":674,
+                  "y":92},
+                "size":{
+                  "width":128,
+                  "height":21}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"30ec35b2b214494b93fd0acec42132a9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"16px",
+            "location":{
+              "x":870,
+              "y":92},
+            "size":{
+              "width":144,
+              "height":21}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"261e56ad2f0e4b1d80cf288d1dfe0540",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "location":{
+                  "x":870,
+                  "y":92},
+                "size":{
+                  "width":144,
+                  "height":21}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2ee6f6970c2c4dae9f2e387827632f21",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "location":{
+              "x":370,
+              "y":166},
+            "size":{
+              "width":237,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"43a334d0065845328720bc90be685438",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "location":{
+                  "x":370,
+                  "y":166},
+                "size":{
+                  "width":237,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c23e23cafb0f4c6da05eb6ee1bb4ecbd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":380,
+              "y":556},
+            "size":{
+              "width":195,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"340b22a0e3d6438484c2ca2d493314e4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":380,
+                  "y":556},
+                "size":{
+                  "width":195,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"599b3e290a6d4b96a070eebd9e22dc5a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":380,
+              "y":205},
+            "size":{
+              "width":767,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0bc94992ebc74df580fa767476236654",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":380,
+                  "y":205},
+                "size":{
+                  "width":767,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bd88108c089e454e908e277e2e5798af",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":380,
+              "y":384},
+            "size":{
+              "width":436,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a547577862f243828fc14ad5107ac336",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":380,
+                  "y":384},
+                "size":{
+                  "width":436,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ea06356c8d6b40ef82e5f60c728709c0",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":390,
+              "y":241},
+            "size":{
+              "width":220,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"04b70a05cc184839b73748438e970e35",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":390,
+                  "y":241},
+                "size":{
+                  "width":220,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"678546caefad4e69beda0787f7f01ea4",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":390,
+              "y":273},
+            "size":{
+              "width":220,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"43f56c7b2c2a414a888003c341a179c2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":390,
+                  "y":273},
+                "size":{
+                  "width":220,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"32ba752000234f328d69e3787df7b999",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":390,
+              "y":305},
+            "size":{
+              "width":220,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f022aaacb91242e790308f4bea779df0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":390,
+                  "y":305},
+                "size":{
+                  "width":220,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"f0c5f39d5e0d4c0b8ed3b9208c79d914",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":390,
+              "y":337},
+            "size":{
+              "width":220,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9f18937306e24d398c4b82a1ee6a0bbc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":390,
+                  "y":337},
+                "size":{
+                  "width":220,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"19afdefcd44841919a143b5c741631ca",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":390,
+              "y":418},
+            "size":{
+              "width":220,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fa644a3d7104460689225caa668c2bdd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":390,
+                  "y":418},
+                "size":{
+                  "width":220,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"bf6d66eea2a44441bd5149434d934cb7",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":390,
+              "y":450},
+            "size":{
+              "width":220,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cb0153b46e2741c9bc2f5d9bba63a08d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":390,
+                  "y":450},
+                "size":{
+                  "width":220,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"f94057fea8f3482b9aece24de7a558ff",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":390,
+              "y":482},
+            "size":{
+              "width":220,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3eabedef113c487aa1a40430a0eb538a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":390,
+                  "y":482},
+                "size":{
+                  "width":220,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"e241c3a44aa3448a8d29548309bb3193",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":390,
+              "y":514},
+            "size":{
+              "width":220,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9b0236ab7bf945818c01cb46c511f3d6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":390,
+                  "y":514},
+                "size":{
+                  "width":220,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"7697bef4e65744ef8e9bccfa2068fc25",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":390,
+              "y":591},
+            "size":{
+              "width":460,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"25324b84e2c74b0d95861c1b6ff58c3f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":390,
+                  "y":591},
+                "size":{
+                  "width":460,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"34f1db4e080f4f19918ff5ac82e4cc95",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":390,
+              "y":623},
+            "size":{
+              "width":404,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"59343bec3ce34eea9d78deaf82fcbfc8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":390,
+                  "y":623},
+                "size":{
+                  "width":404,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"3ca26b59a2e54e568c7813269f878f7f",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":390,
+              "y":655},
+            "size":{
+              "width":404,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"394789904f214035adb253fa19c386a2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":390,
+                  "y":655},
+                "size":{
+                  "width":404,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"135a4155c21240a3a0c2c3a4cbd70cd7",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":390,
+              "y":687},
+            "size":{
+              "width":404,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"aa62eeeb00784b4e895fe91f8949bcb2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":390,
+                  "y":687},
+                "size":{
+                  "width":404,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"56a8ffe1ad244506803bb2da0fbfce1d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "location":{
+              "x":370,
+              "y":754},
+            "size":{
+              "width":237,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"69a6ed3646b947a88ffc1eb269b40f6a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "location":{
+                  "x":370,
+                  "y":754},
+                "size":{
+                  "width":237,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1349b135a6794f8e906dfba1330ac5ac",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":380,
+              "y":793},
+            "size":{
+              "width":351,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ea8cacfc45a846b08de02c84e7ba8b53",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":380,
+                  "y":793},
+                "size":{
+                  "width":351,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1fa572b745464a4584293e386a6e908b",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":390,
+              "y":822},
+            "size":{
+              "width":341,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2c61bfec52184f59abf9d43d6a8d7834",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":390,
+                  "y":822},
+                "size":{
+                  "width":341,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"c4fe6cceb6c84090b6c42414335ae6f0",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":390,
+              "y":851},
+            "size":{
+              "width":341,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6955c04c2362430b9e7bf2c73b65a2ee",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":390,
+                  "y":851},
+                "size":{
+                  "width":341,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"a2b937cde79f4472ab2fd8473752ed38",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":390,
+              "y":880},
+            "size":{
+              "width":341,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8801e84471fa4a7aa7592751b4f3226e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":390,
+                  "y":880},
+                "size":{
+                  "width":341,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"e8b4558c2ca24511b3ea8f0f7e3243b9",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":390,
+              "y":909},
+            "size":{
+              "width":341,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5eaedbbf1e4447f2bc391fd51b5aa9e4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":390,
+                  "y":909},
+                "size":{
+                  "width":341,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"21e791543a0d4c03ac21cac2e1a4c45d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":380,
+              "y":953},
+            "size":{
+              "width":247,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fdcd9c951d4140f984b1abc775526044",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":380,
+                  "y":953},
+                "size":{
+                  "width":247,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ee803f5fd9e24521a37bbc1f65fd04bc",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":390,
+              "y":982},
+            "size":{
+              "width":341,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fa121e8369094393a80e45233039c654",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":390,
+                  "y":982},
+                "size":{
+                  "width":341,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"a5c0ad014e6e4b1b9556ebda9e637c49",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":390,
+              "y":1011},
+            "size":{
+              "width":341,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"93bc5381e0134e9499a53eb53592a426",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":390,
+                  "y":1011},
+                "size":{
+                  "width":341,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"638b5bb5ebb148359f37b08a4d780b6f",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":390,
+              "y":1040},
+            "size":{
+              "width":341,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4c69e13b7fa94bf1b4d429b79de41b72",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":390,
+                  "y":1040},
+                "size":{
+                  "width":341,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"f8d272c154fe4604954fd5b075d40aac",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":390,
+              "y":1069},
+            "size":{
+              "width":341,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ea8bdad5c2d7424b82d3a1925f99ef60",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":390,
+                  "y":1069},
+                "size":{
+                  "width":341,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"7d88d91694fc4f9bbce1d4c7a491ffa9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "horizontalAlignment":"left",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFCC},
+            "location":{
+              "x":1010,
+              "y":577},
+            "size":{
+              "width":150,
+              "height":46},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"25e64a66dfbf4bbfb7385fdccdf3409c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "horizontalAlignment":"left",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFCC},
+                "location":{
+                  "x":1010,
+                  "y":577},
+                "size":{
+                  "width":150,
+                  "height":46},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/做题页-试卷/u157.png"}},
+{
+          "id":"8f947ae105684685b32e46bef14bb1cd",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1080,
+              "y":536},
+            "size":{
+              "width":10,
+              "height":41},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"images/播放页/u125_start.png",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/播放页/u125_line.png"}},
+{
+          "id":"3bbbc0656ffe479c87d1023d577e90e8",
+          "label":"确定交卷",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":820,
+              "y":935.5},
+            "size":{
+              "width":10,
+              "height":10},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"6c0017030ca9467894f5061d6d226622",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"4eeeff6bbb134a84888d4c8509ef3604",
+                  "label":"",
+                  "parentDynamicPanel":"3bbbc0656ffe479c87d1023d577e90e8",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "size":{
+                      "width":430,
+                      "height":170}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"17168b9d7f704347859b8ee8563fe950",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"3bbbc0656ffe479c87d1023d577e90e8",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                        "fontSize":"16px",
+                        "size":{
+                          "width":430,
+                          "height":170}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/做题页-试卷/u161.png"}},
+{
+                  "id":"2b3354c24d134b0eb2c8ecb922f5ead6",
+                  "label":"",
+                  "parentDynamicPanel":"3bbbc0656ffe479c87d1023d577e90e8",
+                  "type":"button",
+                  "styleType":"button",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":242,
+                      "y":120},
+                    "size":{
+                      "width":100,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 提交结果",
+                              "target":{
+                                "targetType":"page",
+                                "url":"提交结果.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"c9268ef7e87048748467af1630c75934",
+                  "label":"",
+                  "parentDynamicPanel":"3bbbc0656ffe479c87d1023d577e90e8",
+                  "type":"button",
+                  "styleType":"button",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":82,
+                      "y":120},
+                    "size":{
+                      "width":100,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 确定交卷",
+                              "objectsToFades":[{
+                                  "objectPath":["3bbbc0656ffe479c87d1023d577e90e8"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true}]}]},
+{
+          "id":"1bbb601571be462ca282c646edfab942",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "horizontalAlignment":"left",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFCC},
+            "location":{
+              "x":1000,
+              "y":1133},
+            "size":{
+              "width":240,
+              "height":45},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8535d34d85574496b0840849d25b32e6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "horizontalAlignment":"left",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFCC},
+                "location":{
+                  "x":1000,
+                  "y":1133},
+                "size":{
+                  "width":240,
+                  "height":45},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/做题页-试卷/u165.png"}},
+{
+          "id":"2af5455073334df286233fc4be8c630e",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":910,
+              "y":1151},
+            "size":{
+              "width":90,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"images/做题页-试卷/u167_start.png",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/做题页-试卷/u167_line.png"}},
+{
+          "id":"08446b2fe846402b88899a7901da993e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":72,
+              "y":163},
+            "size":{
+              "width":25,
+              "height":25},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f7bdc22708024114b8b8aa428e8636b8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":72,
+                  "y":163},
+                "size":{
+                  "width":25,
+                  "height":25},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/做题页-试卷/u168.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d1ae9675f8b6454e92fb559d76bac954":{
+      "scriptId":"u0"},
+    "eb13cfb6668b4fcea092c1fe746df1af":{
+      "scriptId":"u1"},
+    "8da9dc085abf4d60b50fb8d07bec1694":{
+      "scriptId":"u2"},
+    "9fc066dca19c4d4eab1b23abe079f151":{
+      "scriptId":"u3"},
+    "db0f91b4aeac44658fe296326a4501e4":{
+      "scriptId":"u4"},
+    "7d03ab50f3d14f21916f39214ab6ee04":{
+      "scriptId":"u5"},
+    "8a1227315dc14d1294dd29d5f7a59ad4":{
+      "scriptId":"u6"},
+    "29e28430302344a3ad92a928b710ff83":{
+      "scriptId":"u7"},
+    "7b9b6a2aa6154d70aec4657831300893":{
+      "scriptId":"u8"},
+    "5ca8aa2acc34481582e5d7398342cf76":{
+      "scriptId":"u9"},
+    "da2ee0271be84516bcf78fe6d0762eaa":{
+      "scriptId":"u10"},
+    "eecc4d3bb551462eb8ce0913c0a1d57a":{
+      "scriptId":"u11"},
+    "c5606b5405fd46a7afc8aa7bfb013447":{
+      "scriptId":"u12"},
+    "6b7f54c216d04ab883942b3c84d322c7":{
+      "scriptId":"u13"},
+    "4eb409eae37942c5a06223e00f4cdabb":{
+      "scriptId":"u14"},
+    "966c19793f844775b5748bb1089a9d80":{
+      "scriptId":"u15"},
+    "1c3ab434b5dc4fda8b493be4d3e1f4b6":{
+      "scriptId":"u16"},
+    "a776e2d18387494993386f940cb3f034":{
+      "scriptId":"u17"},
+    "25a32250629a47f0924ad7d83eaaa5c1":{
+      "scriptId":"u18"},
+    "6cbf8d3956aa49fc99e7a9f2079567b0":{
+      "scriptId":"u19"},
+    "c576b76571d247e9a268f71c59472917":{
+      "scriptId":"u20"},
+    "630c41e7f9ca40599c01a2380ed785ba":{
+      "scriptId":"u21"},
+    "8414fe4187bb45de9476011ecc0fe332":{
+      "scriptId":"u22"},
+    "706620400e504c04b67a0bec4a1bfb71":{
+      "scriptId":"u23"},
+    "bb882c2eceeb4944b95589810d455894":{
+      "scriptId":"u24"},
+    "c4d3a23f88dd42eb87da6a5c4bf9d930":{
+      "scriptId":"u25"},
+    "611ed33796f44f84b2a6e5aa305ca007":{
+      "scriptId":"u26"},
+    "c555acefc1604db5ac4628fc2d947bff":{
+      "scriptId":"u27"},
+    "e247847aa1af4729bcc0b0180dc1f6b7":{
+      "scriptId":"u28"},
+    "cbc4acb548ae4bfcbd8f6f3d73b2528a":{
+      "scriptId":"u29"},
+    "9e0b8a67f4d4443c8bd14459b8944b36":{
+      "scriptId":"u30"},
+    "c118fa854403455985c559131238203b":{
+      "scriptId":"u31"},
+    "c8410a05ee1f4a08bcf85a4bd59fe4a9":{
+      "scriptId":"u32"},
+    "07b7483db2cf4617a1284246ea0733ea":{
+      "scriptId":"u33"},
+    "0de3edeb1d46432a860236c869293f32":{
+      "scriptId":"u34"},
+    "05fc6c091d0e4a4d9cedcf1196b76ac3":{
+      "scriptId":"u35"},
+    "eef7956031b94274a1723a9aa25155db":{
+      "scriptId":"u36"},
+    "5a87bcb842124171a1975529d588b6db":{
+      "scriptId":"u37"},
+    "2b742a2512b245c99abc3e7b49421363":{
+      "scriptId":"u38"},
+    "4d4dd73f0ea84cf7ae54b7ee2f2434ad":{
+      "scriptId":"u39"},
+    "c625a0293c26480e98d37585d7c9e935":{
+      "scriptId":"u40"},
+    "b7e7d175e8154f2aa650522fbb0bc2e4":{
+      "scriptId":"u41"},
+    "e8e09031cd6e435ca3fdb689c855e2de":{
+      "scriptId":"u42"},
+    "abcfd1399dd446d68c8a0f5ea8ec8b9f":{
+      "scriptId":"u43"},
+    "1bcbdfaf5e814c0f9e671ebf760f69e4":{
+      "scriptId":"u44"},
+    "8896fe6749d14602b1a69040f0450c87":{
+      "scriptId":"u45"},
+    "90fd2eb7d6de4ccab7a8f218d8459bdd":{
+      "scriptId":"u46"},
+    "b0fe31d4aa154083984597497c050d6c":{
+      "scriptId":"u47"},
+    "13f5068644cb41c490b9c86a54fb9bb9":{
+      "scriptId":"u48"},
+    "807d4b8ed63a46b3945bf65b100c6190":{
+      "scriptId":"u49"},
+    "94aa22b0e2f540bd8a53002695c83d6e":{
+      "scriptId":"u50"},
+    "a98b7628dd7940dd979e18c38e5acd7f":{
+      "scriptId":"u51"},
+    "07c5b05411854080a2a48e3ece6c0337":{
+      "scriptId":"u52"},
+    "35d7ebb9e223465da7ad7e1db8427ba5":{
+      "scriptId":"u53"},
+    "c5c22835926e46368726c90335eb2c80":{
+      "scriptId":"u54"},
+    "e4d240c2985c42d98a45ec1169b34d20":{
+      "scriptId":"u55"},
+    "6ad6fc2f73744b3ea6ac1544400beae1":{
+      "scriptId":"u56"},
+    "38b287ec11634cc5bfae8df199bf2221":{
+      "scriptId":"u57"},
+    "0624b58ea47144e7968d556e9a3bd073":{
+      "scriptId":"u58"},
+    "9ccd04b52e114a0a99e5bea7eaf01bd8":{
+      "scriptId":"u59"},
+    "c27421126d77400f9d51b809e3ebbe75":{
+      "scriptId":"u60"},
+    "af0bcaac68834fb2be68798995c551ed":{
+      "scriptId":"u61"},
+    "36c2e88314e14845adbb938c778a4cd4":{
+      "scriptId":"u62"},
+    "405b6c493829418eae6c256e029d6bc7":{
+      "scriptId":"u63"},
+    "61c77fb8ca95420e9aa94c50d805e748":{
+      "scriptId":"u64"},
+    "6a3eee0389274d57bba9148bd788a7bf":{
+      "scriptId":"u65"},
+    "0e63e7ffe6984e419ed703a9c4cb7035":{
+      "scriptId":"u66"},
+    "33ad29543b4644b99bae0e2b0b494d02":{
+      "scriptId":"u67"},
+    "734b9bcf1f3743c6a498a09c75eaa322":{
+      "scriptId":"u68"},
+    "d96149bad7fb4fcc81b07f7f31de381d":{
+      "scriptId":"u69"},
+    "bc28c2beb8594294a52b5f7326870198":{
+      "scriptId":"u70"},
+    "bfa082d36b2a497e89e4cd1591530a09":{
+      "scriptId":"u71"},
+    "d9f014949a8a4dd7955c8668fde1e840":{
+      "scriptId":"u72"},
+    "715cb8e75be541cbb7d6b4de1bd9e295":{
+      "scriptId":"u73"},
+    "35542a24475542249304eea31eef6abc":{
+      "scriptId":"u74"},
+    "2268e6d46e0c428fb91da2335b95825a":{
+      "scriptId":"u75"},
+    "dd69aad02c4d4736806d1f28f4ec2e36":{
+      "scriptId":"u76"},
+    "01ebc847005c4548be4ef97267a4bdc6":{
+      "scriptId":"u77"},
+    "81d37fc5f3a74bcb968a17ba20831330":{
+      "scriptId":"u78"},
+    "1194fefc799640abbcbdf740b9d6de21":{
+      "scriptId":"u79"},
+    "d47dc7adc34844789dbc409e28339b76":{
+      "scriptId":"u80"},
+    "7dc4baff87d94ab4aa7e34c8c5435ace":{
+      "scriptId":"u81"},
+    "56cf67f016b3489cbba1bf6b69a034c6":{
+      "scriptId":"u82"},
+    "37aa227dfbcd426c8f20933d8972a8c4":{
+      "scriptId":"u83"},
+    "0684cb015a694cda95787864228d3e78":{
+      "scriptId":"u84"},
+    "44a1095daa4647af9418d7d93d8e1596":{
+      "scriptId":"u85"},
+    "fa98f9ea03e64d0ea6d4fd706ecbc7c7":{
+      "scriptId":"u86"},
+    "c1fed024d1ae4f4db51f7fedb408f3c5":{
+      "scriptId":"u87"},
+    "505e4538b78e42aab9cbb9c3d3fec459":{
+      "scriptId":"u88"},
+    "5fe31cb7e39c4a45a3613eb9cb37129b":{
+      "scriptId":"u89"},
+    "9c78238735704f1d84c6061e1869ad85":{
+      "scriptId":"u90"},
+    "1c51332106484815a85f99a295f4e129":{
+      "scriptId":"u91"},
+    "322f909494c343bf8f2ca3357d7f1659":{
+      "scriptId":"u92"},
+    "4e35dfcf17ef4b7595a1ad53762c723d":{
+      "scriptId":"u93"},
+    "65d32a8078d1430290088b17296e739a":{
+      "scriptId":"u94"},
+    "0292cf2e9ca1434ba3e86830f02fd1a2":{
+      "scriptId":"u95"},
+    "09f84afe7c9849a49ed0961930461350":{
+      "scriptId":"u96"},
+    "821c4130e04245d2b1a23d26bc061a95":{
+      "scriptId":"u97"},
+    "9513cb79307a4ab9bb2a6f1384e03c2d":{
+      "scriptId":"u98"},
+    "dddc070439ac447b80d561ca24b94754":{
+      "scriptId":"u99"},
+    "d3e2ad6121704b7d995ed5d9ff012798":{
+      "scriptId":"u100"},
+    "30ec35b2b214494b93fd0acec42132a9":{
+      "scriptId":"u101"},
+    "261e56ad2f0e4b1d80cf288d1dfe0540":{
+      "scriptId":"u102"},
+    "2ee6f6970c2c4dae9f2e387827632f21":{
+      "scriptId":"u103"},
+    "43a334d0065845328720bc90be685438":{
+      "scriptId":"u104"},
+    "c23e23cafb0f4c6da05eb6ee1bb4ecbd":{
+      "scriptId":"u105"},
+    "340b22a0e3d6438484c2ca2d493314e4":{
+      "scriptId":"u106"},
+    "599b3e290a6d4b96a070eebd9e22dc5a":{
+      "scriptId":"u107"},
+    "0bc94992ebc74df580fa767476236654":{
+      "scriptId":"u108"},
+    "bd88108c089e454e908e277e2e5798af":{
+      "scriptId":"u109"},
+    "a547577862f243828fc14ad5107ac336":{
+      "scriptId":"u110"},
+    "ea06356c8d6b40ef82e5f60c728709c0":{
+      "scriptId":"u111"},
+    "04b70a05cc184839b73748438e970e35":{
+      "scriptId":"u112"},
+    "678546caefad4e69beda0787f7f01ea4":{
+      "scriptId":"u113"},
+    "43f56c7b2c2a414a888003c341a179c2":{
+      "scriptId":"u114"},
+    "32ba752000234f328d69e3787df7b999":{
+      "scriptId":"u115"},
+    "f022aaacb91242e790308f4bea779df0":{
+      "scriptId":"u116"},
+    "f0c5f39d5e0d4c0b8ed3b9208c79d914":{
+      "scriptId":"u117"},
+    "9f18937306e24d398c4b82a1ee6a0bbc":{
+      "scriptId":"u118"},
+    "19afdefcd44841919a143b5c741631ca":{
+      "scriptId":"u119"},
+    "fa644a3d7104460689225caa668c2bdd":{
+      "scriptId":"u120"},
+    "bf6d66eea2a44441bd5149434d934cb7":{
+      "scriptId":"u121"},
+    "cb0153b46e2741c9bc2f5d9bba63a08d":{
+      "scriptId":"u122"},
+    "f94057fea8f3482b9aece24de7a558ff":{
+      "scriptId":"u123"},
+    "3eabedef113c487aa1a40430a0eb538a":{
+      "scriptId":"u124"},
+    "e241c3a44aa3448a8d29548309bb3193":{
+      "scriptId":"u125"},
+    "9b0236ab7bf945818c01cb46c511f3d6":{
+      "scriptId":"u126"},
+    "7697bef4e65744ef8e9bccfa2068fc25":{
+      "scriptId":"u127"},
+    "25324b84e2c74b0d95861c1b6ff58c3f":{
+      "scriptId":"u128"},
+    "34f1db4e080f4f19918ff5ac82e4cc95":{
+      "scriptId":"u129"},
+    "59343bec3ce34eea9d78deaf82fcbfc8":{
+      "scriptId":"u130"},
+    "3ca26b59a2e54e568c7813269f878f7f":{
+      "scriptId":"u131"},
+    "394789904f214035adb253fa19c386a2":{
+      "scriptId":"u132"},
+    "135a4155c21240a3a0c2c3a4cbd70cd7":{
+      "scriptId":"u133"},
+    "aa62eeeb00784b4e895fe91f8949bcb2":{
+      "scriptId":"u134"},
+    "56a8ffe1ad244506803bb2da0fbfce1d":{
+      "scriptId":"u135"},
+    "69a6ed3646b947a88ffc1eb269b40f6a":{
+      "scriptId":"u136"},
+    "1349b135a6794f8e906dfba1330ac5ac":{
+      "scriptId":"u137"},
+    "ea8cacfc45a846b08de02c84e7ba8b53":{
+      "scriptId":"u138"},
+    "1fa572b745464a4584293e386a6e908b":{
+      "scriptId":"u139"},
+    "2c61bfec52184f59abf9d43d6a8d7834":{
+      "scriptId":"u140"},
+    "c4fe6cceb6c84090b6c42414335ae6f0":{
+      "scriptId":"u141"},
+    "6955c04c2362430b9e7bf2c73b65a2ee":{
+      "scriptId":"u142"},
+    "a2b937cde79f4472ab2fd8473752ed38":{
+      "scriptId":"u143"},
+    "8801e84471fa4a7aa7592751b4f3226e":{
+      "scriptId":"u144"},
+    "e8b4558c2ca24511b3ea8f0f7e3243b9":{
+      "scriptId":"u145"},
+    "5eaedbbf1e4447f2bc391fd51b5aa9e4":{
+      "scriptId":"u146"},
+    "21e791543a0d4c03ac21cac2e1a4c45d":{
+      "scriptId":"u147"},
+    "fdcd9c951d4140f984b1abc775526044":{
+      "scriptId":"u148"},
+    "ee803f5fd9e24521a37bbc1f65fd04bc":{
+      "scriptId":"u149"},
+    "fa121e8369094393a80e45233039c654":{
+      "scriptId":"u150"},
+    "a5c0ad014e6e4b1b9556ebda9e637c49":{
+      "scriptId":"u151"},
+    "93bc5381e0134e9499a53eb53592a426":{
+      "scriptId":"u152"},
+    "638b5bb5ebb148359f37b08a4d780b6f":{
+      "scriptId":"u153"},
+    "4c69e13b7fa94bf1b4d429b79de41b72":{
+      "scriptId":"u154"},
+    "f8d272c154fe4604954fd5b075d40aac":{
+      "scriptId":"u155"},
+    "ea8bdad5c2d7424b82d3a1925f99ef60":{
+      "scriptId":"u156"},
+    "7d88d91694fc4f9bbce1d4c7a491ffa9":{
+      "scriptId":"u157"},
+    "25e64a66dfbf4bbfb7385fdccdf3409c":{
+      "scriptId":"u158"},
+    "8f947ae105684685b32e46bef14bb1cd":{
+      "scriptId":"u159"},
+    "3bbbc0656ffe479c87d1023d577e90e8":{
+      "scriptId":"u160"},
+    "4eeeff6bbb134a84888d4c8509ef3604":{
+      "scriptId":"u161"},
+    "17168b9d7f704347859b8ee8563fe950":{
+      "scriptId":"u162"},
+    "2b3354c24d134b0eb2c8ecb922f5ead6":{
+      "scriptId":"u163"},
+    "c9268ef7e87048748467af1630c75934":{
+      "scriptId":"u164"},
+    "1bbb601571be462ca282c646edfab942":{
+      "scriptId":"u165"},
+    "8535d34d85574496b0840849d25b32e6":{
+      "scriptId":"u166"},
+    "2af5455073334df286233fc4be8c630e":{
+      "scriptId":"u167"},
+    "08446b2fe846402b88899a7901da993e":{
+      "scriptId":"u168"},
+    "f7bdc22708024114b8b8aa428e8636b8":{
+      "scriptId":"u169"}}});

@@ -1,0 +1,75 @@
+﻿$axure.loadCurrentPage({
+  "url":"【更新日志】.html",
+  "generationDate":new Date(1446546662619.25),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fd010f3262c64fdbbe76120b09569b6a",
+    "type":"Axure:Page",
+    "name":"【更新日志】",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"cd71179cbea44bab9065958057ba4755",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"16px",
+            "location":{
+              "x":40,
+              "y":36},
+            "size":{
+              "width":719,
+              "height":231}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2a58b3ffb4714b78885b8343690524be",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "location":{
+                  "x":40,
+                  "y":36},
+                "size":{
+                  "width":719,
+                  "height":231}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "cd71179cbea44bab9065958057ba4755":{
+      "scriptId":"u0"},
+    "2a58b3ffb4714b78885b8343690524be":{
+      "scriptId":"u1"}}});
