@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"群组转让.html",
+  "generationDate":new Date(1453247074155.75),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"ef36a486cf1b40ff98b2a5f4e77792b5",
+    "type":"Axure:Page",
+    "name":"群组转让",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"cb20d71a4d8848509beeddb36ac2c1ec",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":0},
+            "size":{
+              "width":996,
+              "height":748}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"02a88b5ba1ba4645b81ea6ab6b693a82",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":0},
+                "size":{
+                  "width":996,
+                  "height":748}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/群组转让/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "cb20d71a4d8848509beeddb36ac2c1ec":{
+      "scriptId":"u0"},
+    "02a88b5ba1ba4645b81ea6ab6b693a82":{
+      "scriptId":"u1"}}});

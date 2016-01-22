@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"主题分类.html",
+  "generationDate":new Date(1453247074139.75),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"79620b19d7124192a5ae2f18bb9b0f0c",
+    "type":"Axure:Page",
+    "name":"主题分类",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"bfde27d8947c4ac09df3160dc0085317",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":0},
+            "size":{
+              "width":993,
+              "height":775}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"912f5e6ba06a4dfc91e152347386d350",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":0},
+                "size":{
+                  "width":993,
+                  "height":775}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/主题分类/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "bfde27d8947c4ac09df3160dc0085317":{
+      "scriptId":"u0"},
+    "912f5e6ba06a4dfc91e152347386d350":{
+      "scriptId":"u1"}}});

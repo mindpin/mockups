@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"通过通知.html",
+  "generationDate":new Date(1453247073940.74),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fd97cf93d0a040759ff97b7bab208e88",
+    "type":"Axure:Page",
+    "name":"通过通知",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"4240b969f5a74ba58b14d205f9dcb094",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":0},
+            "size":{
+              "width":985,
+              "height":537}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b49f22e40a87497abdc30c601cef9fcc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":0},
+                "size":{
+                  "width":985,
+                  "height":537}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/通过通知/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "4240b969f5a74ba58b14d205f9dcb094":{
+      "scriptId":"u0"},
+    "b49f22e40a87497abdc30c601cef9fcc":{
+      "scriptId":"u1"}}});

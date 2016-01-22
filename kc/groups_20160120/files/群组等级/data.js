@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"群组等级.html",
+  "generationDate":new Date(1453247074241.75),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"f96f18a61bcb406d8d762f6576c1db52",
+    "type":"Axure:Page",
+    "name":"群组等级",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3dba1d6209834361b2023eb94fac601d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1346,
+              "height":583}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7ce7b93c482c40e7bf7267f6730efb7c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1346,
+                  "height":583}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/群组等级/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3dba1d6209834361b2023eb94fac601d":{
+      "scriptId":"u0"},
+    "7ce7b93c482c40e7bf7267f6730efb7c":{
+      "scriptId":"u1"}}});

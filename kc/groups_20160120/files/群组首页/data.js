@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"群组首页.html",
+  "generationDate":new Date(1453247073762.73),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"7f1a70b43a044a3d82fc05891dd2f2ee",
+    "type":"Axure:Page",
+    "name":"群组首页",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"5a6fd002754f4c538326d17348a4bf91",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":0},
+            "size":{
+              "width":988,
+              "height":858}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"29cacf031131465e8a4a772fd3cc825c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":0},
+                "size":{
+                  "width":988,
+                  "height":858}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/群组首页/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "5a6fd002754f4c538326d17348a4bf91":{
+      "scriptId":"u0"},
+    "29cacf031131465e8a4a772fd3cc825c":{
+      "scriptId":"u1"}}});

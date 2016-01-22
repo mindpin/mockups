@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"我参与的.html",
+  "generationDate":new Date(1453247073811.73),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"ec79b7971579413e877b1e8a1a705eed",
+    "type":"Axure:Page",
+    "name":"我参与的",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"8f337f87811b4e64a9e4a44a92afba13",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":0},
+            "size":{
+              "width":989,
+              "height":562}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fbb3ae796b2749809e88e3c68f9c6bb5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":0},
+                "size":{
+                  "width":989,
+                  "height":562}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我参与的/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "8f337f87811b4e64a9e4a44a92afba13":{
+      "scriptId":"u0"},
+    "fbb3ae796b2749809e88e3c68f9c6bb5":{
+      "scriptId":"u1"}}});

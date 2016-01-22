@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"群主权限.html",
+  "generationDate":new Date(1453247074224.75),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"3c6a1632cc24415cac7613b28aa30971",
+    "type":"Axure:Page",
+    "name":"群主权限",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"822e9535b35a490db3ed0278999635cd",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1345,
+              "height":829}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"117a8dbcd9074121bbc7db4b86b429f5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1345,
+                  "height":829}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/群主权限/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "822e9535b35a490db3ed0278999635cd":{
+      "scriptId":"u0"},
+    "117a8dbcd9074121bbc7db4b86b429f5":{
+      "scriptId":"u1"}}});

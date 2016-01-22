@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"邀请好友.html",
+  "generationDate":new Date(1453247074063.74),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"9f08932b38da4164bf60d22a8f1b9a2b",
+    "type":"Axure:Page",
+    "name":"邀请好友",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"519e4faf042040fb82d98b7f1f777131",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":0},
+            "size":{
+              "width":1023,
+              "height":964}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ccbfed42adcf46cebd01a4f9e5ff35a5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":0},
+                "size":{
+                  "width":1023,
+                  "height":964}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/邀请好友/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "519e4faf042040fb82d98b7f1f777131":{
+      "scriptId":"u0"},
+    "ccbfed42adcf46cebd01a4f9e5ff35a5":{
+      "scriptId":"u1"}}});

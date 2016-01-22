@@ -1,0 +1,143 @@
+﻿$axure.loadCurrentPage({
+  "url":"加入群组.html",
+  "generationDate":new Date(1453247073972.74),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"3001cd15c6864f9cae84df782c5f4624",
+    "type":"Axure:Page",
+    "name":"加入群组",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3ebd67581b824f0391fc18650f51b1f7",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":0},
+            "size":{
+              "width":1000,
+              "height":439}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1f35ddb9009d4675aec25e45a431e1e9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":0},
+                "size":{
+                  "width":1000,
+                  "height":439}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/加入群组/u0.png"}},
+{
+          "id":"2e5011e04d6c4b5387d5e16a8a70eeb1",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":54,
+              "y":514},
+            "size":{
+              "width":741,
+              "height":176}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d77b4d9813fe4a90a3e72d4b72d222a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":54,
+                  "y":514},
+                "size":{
+                  "width":741,
+                  "height":176}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/加入群组/u2.png"}},
+{
+          "id":"091e8d6f42284c08a22a4e84244749d9",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":130,
+              "y":360},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ac136bd9ed5847ee899fcbfa85dc81e3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":130,
+                  "y":360},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF}},
+              "adaptiveStyles":{
+}}]}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3ebd67581b824f0391fc18650f51b1f7":{
+      "scriptId":"u0"},
+    "1f35ddb9009d4675aec25e45a431e1e9":{
+      "scriptId":"u1"},
+    "2e5011e04d6c4b5387d5e16a8a70eeb1":{
+      "scriptId":"u2"},
+    "d77b4d9813fe4a90a3e72d4b72d222a4":{
+      "scriptId":"u3"},
+    "091e8d6f42284c08a22a4e84244749d9":{
+      "scriptId":"u4"},
+    "ac136bd9ed5847ee899fcbfa85dc81e3":{
+      "scriptId":"u5"}}});

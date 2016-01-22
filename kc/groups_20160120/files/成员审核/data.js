@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"成员审核.html",
+  "generationDate":new Date(1453247074108.74),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"bf5b4102b65b449db56760250273fc0d",
+    "type":"Axure:Page",
+    "name":"成员审核",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d775d17beeaf4302a0a2148d9b408f88",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":0},
+            "size":{
+              "width":987,
+              "height":520}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6ac9485972a34ba3b6024043a03c308e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":0},
+                "size":{
+                  "width":987,
+                  "height":520}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/成员审核/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d775d17beeaf4302a0a2148d9b408f88":{
+      "scriptId":"u0"},
+    "6ac9485972a34ba3b6024043a03c308e":{
+      "scriptId":"u1"}}});

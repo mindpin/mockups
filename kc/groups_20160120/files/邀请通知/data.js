@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"邀请通知.html",
+  "generationDate":new Date(1453247074077.74),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"b08ff9a1904e4ef29995fc548aa18faf",
+    "type":"Axure:Page",
+    "name":"邀请通知",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"b6d560a01bff490486fd66b8a47f3833",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":0},
+            "size":{
+              "width":1000,
+              "height":563}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0055f5fbdfaa4314933b8b2e3da61404",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":0},
+                "size":{
+                  "width":1000,
+                  "height":563}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/邀请通知/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "b6d560a01bff490486fd66b8a47f3833":{
+      "scriptId":"u0"},
+    "0055f5fbdfaa4314933b8b2e3da61404":{
+      "scriptId":"u1"}}});
